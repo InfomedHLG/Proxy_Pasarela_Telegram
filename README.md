@@ -25,12 +25,13 @@
 ## 📑 Índice
 
 1. [🎯 Descripción General](#descripción-general)
-2. [Especificaciones Técnicas](#especificaciones-técnicas)
-3. [📡 API de Mensajería](pasarela/README.md)
-4. [🐳 Despliegue con Docker](Docker/README.md)
-5. [📜 API de Envio de Telegram](api/README.md)
-6. [💡 Scripts de Implementación](scripts/README.md)
-7. [📧 MTA para el Envio de Correo](MTA/README.md)
+2. [✨ Características Principales](#características-principales)
+3. [⚙️ Especificaciones Técnicas](#especificaciones-técnicas)
+4. [📡 API de Mensajería](pasarela/README.md)
+5. [🐳 🐳 Creación, Subida de la Imagen Docker y Despliegue con Docker](Docker/README.md)
+6. [📜 API de Envio de Telegram](api/README.md)
+7. [💡 Scripts de Implementación](scripts/README.md)
+8. [📧 Configuración del Servidor de Correo](MTA/README.md)
 
 
 </details>
@@ -69,7 +70,7 @@
 
 </div>
 
-### ✨ Características Principales
+###  Características Principales
 
 <div class="grid-container">
 <div class="grid-item">
@@ -115,7 +116,7 @@
 
 ---
 
-## ⚙️ Especificaciones Técnicas
+## Especificaciones Técnicas
 
 ### 🛠️ Configuración Base
 

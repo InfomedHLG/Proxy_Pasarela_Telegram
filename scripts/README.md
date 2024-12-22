@@ -1,6 +1,6 @@
 # 🌐 Servidor Centralizado Telegram
 
-## 6: 💡 Scripts de Notificación para Telegram
+## 7: 💡 Scripts de Implementación
 
 Este conjunto de scripts permite enviar notificaciones automatizadas a través de Telegram para monitorear eventos del servidor.
 

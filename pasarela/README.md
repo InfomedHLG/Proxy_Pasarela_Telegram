@@ -1,6 +1,6 @@
 # 🌐 Servidor Centralizado Telegram
 
-## 3: 📡 API de Mensajería
+## 4: 📡 API de Mensajería
 
 ### 1. Instalación de Python y Dependencias
 

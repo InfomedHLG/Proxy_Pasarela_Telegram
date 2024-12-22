@@ -1,6 +1,6 @@
 # 🌐 Servidor Centralizado Telegram
 
-## 🚀 5: 📜 API de Envío de Telegram
+## 6: 📜 API de Envío de Telegram
 
 ### Uso del Script
 

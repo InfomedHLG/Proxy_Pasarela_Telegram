@@ -1,6 +1,6 @@
 # 🌐 Servidor Centralizado Telegram
 
-## 1: 🐳 Creación y Subida de la Imagen Docker
+## 5: 🐳 Creación, Subida de la Imagen Docker y Despliegue con Docker
 
 ### 🚀 Construir la Imagen
 

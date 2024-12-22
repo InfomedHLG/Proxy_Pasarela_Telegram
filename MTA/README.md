@@ -1,6 +1,6 @@
 # 🌐 Servidor Centralizado Telegram
 
-## 7: 📧 MTA para el Envio de Correo
+## 8: 📨 Configuración del Servidor de Correo
 
 ## Descripción
 
