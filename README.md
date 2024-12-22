@@ -37,7 +37,7 @@
 
 ---
 
-## 🎯 Descripción General
+## Descripción General
 
 <div align="center">
 
