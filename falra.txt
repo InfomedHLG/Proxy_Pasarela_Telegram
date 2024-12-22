@@ -1,2 +1,0 @@
-poner como correrlo sin docker
-
