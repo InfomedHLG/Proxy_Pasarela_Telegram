@@ -158,7 +158,4 @@ sudo journalctl -u telegram-server -f
 - **Requiere permisos de escritura en** `/srv/log`
 
 ---
-[⬆️ Volver al inicio del repositorio](https://github.com/InfomedHLG/Proxy_Pasarela_Telegram)
-
----
 [⬆️ Volver al inicio del repositorio](../)

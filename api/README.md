@@ -95,8 +95,4 @@ chmod 755 /home/python/servercentralizado/logs
 
 ---
 
-[⬆️ Volver al inicio del repositorio](https://github.com/InfomedHLG/Proxy_Pasarela_Telegram)
-
----
-
 [⬆️ Volver al inicio del repositorio](../)
