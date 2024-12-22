@@ -160,7 +160,11 @@ curl -X POST http://127.0.0.1:8443 \
 | 404 | 🔍 No encontrado | Archivo no existe |
 | 500 | ⚠️ Error | Error del servidor |
 
+
 ---
-[⬆️ Volver al inicio](#-servidor-centralizado-telegram)
+[⬆️ Volver al inicio del repositorio](https://github.com/InfomedHLG/Proxy_Pasarela_Telegram)
+
+---
+[⬆️ Volver al inicio del repositorio](../)
 
   
