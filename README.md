@@ -24,8 +24,8 @@
 
 ## 📑 Índice
 
-1. [🎯 Descripción General](#descripción-general)
-2. [⚙️ Especificaciones Técnicas](#especificaciones-técnicas)
+1. [Descripción General](#descripción-general)
+2. [Especificaciones Técnicas](#especificaciones-técnicas)
 3. [📡 API de Mensajería](pasarela/README.md)
 4. [🐳 Despliegue con Docker](Docker/README.md)
 5. [📜 API de Envio de Telegram](api/README.md)
@@ -154,7 +154,7 @@ proxy_address="None"                       # Configuración de proxy
 
 
 
-## 🤝 Contribuir
+## ���� Contribuir
 
 ¿Encontraste un bug? ¿Tienes una idea? ¡Nos encantaría escucharte!
 
