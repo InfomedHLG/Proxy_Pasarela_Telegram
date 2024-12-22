@@ -59,11 +59,11 @@
          └─────── HTTP/JSON ───┘                   │
                                                   │
     ┌─────────── Características ─────────────────┘
-    │ • Control de Acceso Centralizado
-    │ • Gestión de Mensajes y Archivos
-    │ • Logs y Monitoreo
-    │ • Alta Disponibilidad
-    └─────────────────────────────────────
+    │ • Control de Acceso Centralizado            │
+    │ • Gestión de Mensajes y Archivos            │
+    │ • Logs y Monitoreo                          │
+    │ • Alta Disponibilidad                       │
+    └─────────────────────────────────────────────┘
 </pre>
 
 
