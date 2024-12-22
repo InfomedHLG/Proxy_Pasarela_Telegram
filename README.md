@@ -24,7 +24,7 @@
 
 ## 📑 Índice
 
-1. [Descripción General](#descripción-general)
+1. [🎯 Descripción General](#descripción-general)
 2. [Especificaciones Técnicas](#especificaciones-técnicas)
 3. [📡 API de Mensajería](pasarela/README.md)
 4. [🐳 Despliegue con Docker](Docker/README.md)
