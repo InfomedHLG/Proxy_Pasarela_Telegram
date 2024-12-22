@@ -96,7 +96,7 @@ services:
     environment:
       - SERVER_PORT=8443
       - BOT_TOKEN=1234567890:ABCdefGHIjklMNOpqrsTUVwxyz123456789
-      - CHAT_ID=-100987654321
+      - CHAT_ID=-1234567890
       - EXPECTED_TOKEN=abc123def456ghi789jkl012mno345pqr678
       - proxy_address=192.168.1.100:3128                    # Usar 'none' si no se requiere proxy
       - LOG_DIR=/var/log/telegram-bot

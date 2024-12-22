@@ -5,7 +5,7 @@ LABEL mantenedor="Salvador Sánchez Sánchez <ssanchezhlg@gmail.com>"
 LABEL version="1.3"
 LABEL descripcion="Esta imagen no es mas que un API central para telegram el cual se encarga de darle salida a varios servidores que no tienen internet y se encuentran  en una red DMZ"
 
-ENV PORT="9000"
+ENV PORT="8443"
 ENV proxy_address="None"
 
 WORKDIR /opt/app
