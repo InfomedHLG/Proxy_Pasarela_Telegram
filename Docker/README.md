@@ -1,5 +1,38 @@
 # 🌐 Servidor Centralizado Telegram
-## 4: 🐳 Despliegue con Docker
+
+## 1: 🐳 Creación y Subida de la Imagen Docker
+
+### 🚀 Construir la Imagen
+
+Asegúrate de tener un `Dockerfile` configurado correctamente en tu proyecto. Luego, ejecuta el siguiente comando para construir la imagen:
+
+```bash
+docker build -t tu_usuario/tu_imagen:1.0 .
+```
+
+Reemplaza `tu_usuario/tu_imagen:1.0` con el nombre que desees para tu imagen.
+
+### 🔑 Iniciar Sesión en Docker Hub
+
+Si aún no lo has hecho, inicia sesión en Docker Hub:
+
+```bash
+docker login
+```
+
+Ingresa tus credenciales de Docker Hub cuando se te solicite.
+
+### ☁️ Subir la Imagen al Repositorio
+
+Una vez que la imagen esté construida, puedes subirla a tu repositorio personal en Docker Hub:
+
+```bash
+docker push tu_usuario/tu_imagen:1.0
+```
+
+Asegúrate de reemplazar `tu_usuario/tu_imagen:1.0` con el nombre de tu imagen.
+
+## 2: 🐳 Despliegue con Docker
 
 ### 📦 Instalación Rápida
 
@@ -13,7 +46,7 @@ docker run -d \
   -e CHAT_ID=your_chat_id \
   -e EXPECTED_TOKEN=your_auth_token \
   -v /path/to/logs:/srv/log \
-  ssanchezhlg/bot_telegram_oficial:1.3
+  tu_usuario/tu_imagen:1.0
 ```
 
 ### 📦 Instalación con Docker Compose
@@ -25,7 +58,7 @@ version: '3.8'
 
 services:
   bot_telegram:
-    image: ssanchezhlg/bot_telegram_oficial:1.3
+    image: tu_usuario/tu_imagen:1.0
     restart: always
     container_name: bot_telegram
     ports: 
@@ -41,6 +74,7 @@ services:
 ```
 
 Inicia el servicio con:
+
 ```bash
 docker-compose up -d
 ```
@@ -54,7 +88,7 @@ version: "3"
 
 services:
   bot_telegram:
-    image: ssanchezhlg/bot_telegram_oficial:1.3
+    image: tu_usuario/tu_imagen:1.0
     restart: always
     container_name: bot_telegram
     ports: 
@@ -84,7 +118,7 @@ volumes:
       device: ":/storage/docker/telegram-bot"  
 ```
 
-### 📋 Parámetros Docker
+## 3: 📋 Parámetros Docker
 
 | Parámetro | Descripción |
 |:---------:|:------------|
@@ -97,7 +131,7 @@ volumes:
 
 > 💡 **Tip**: Verifica la instalación accediendo a `http://IP:8443`
 
-## 📡 API de Mensajería
+## 4: 📡 API de Mensajería
 
 ### 📤 Endpoints Disponibles
 
@@ -160,8 +194,8 @@ curl -X POST http://127.0.0.1:8443 \
 | 404 | 🔍 No encontrado | Archivo no existe |
 | 500 | ⚠️ Error | Error del servidor |
 
-
 ---
+
 [⬆️ Volver al inicio del repositorio](../)
 
   
