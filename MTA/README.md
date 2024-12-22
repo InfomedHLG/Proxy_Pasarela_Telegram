@@ -78,11 +78,6 @@ echo "Mensaje con adjunto" | mailx -s "Asunto" \
     -a "archivo.pdf" \
     usuario@ejemplo.com
 ```
-    
-
-
----
-[⬆️ Volver al inicio del repositorio](https://github.com/InfomedHLG/Proxy_Pasarela_Telegram)
 
 ---
 [⬆️ Volver al inicio del repositorio](../)

@@ -244,7 +244,4 @@ Siéntete libre de mejorar este script y adaptarlo a tus necesidades específica
 
 
 ---
-[⬆️ Volver al inicio del repositorio](https://github.com/InfomedHLG/Proxy_Pasarela_Telegram)
-
----
 [⬆️ Volver al inicio del repositorio](../)

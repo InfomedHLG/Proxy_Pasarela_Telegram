@@ -162,9 +162,6 @@ curl -X POST http://127.0.0.1:8443 \
 
 
 ---
-[⬆️ Volver al inicio del repositorio](https://github.com/InfomedHLG/Proxy_Pasarela_Telegram)
-
----
 [⬆️ Volver al inicio del repositorio](../)
 
   
